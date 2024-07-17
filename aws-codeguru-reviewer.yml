@@ -1,0 +1,7 @@
+version: 1
+analysis:
+  language: java
+  fileTypes:
+    - java
+  directories:
+    - src/main/java
