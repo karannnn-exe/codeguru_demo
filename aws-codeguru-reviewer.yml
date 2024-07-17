@@ -4,4 +4,4 @@ analysis:
   fileTypes:
     - java
   directories:
-    - src/main/java
+    - src/main/java/
